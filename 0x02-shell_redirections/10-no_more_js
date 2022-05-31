@@ -1,2 +1,2 @@
 #!/bin/bash
-git rm --cached .js
+git rm -rf --cached .js
