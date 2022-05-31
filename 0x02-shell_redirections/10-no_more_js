@@ -1,2 +1,2 @@
 #!/bin/bash
-git rm -rf --cached .js
+find . -name ".js" -type f -delete
